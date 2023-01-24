@@ -1,5 +1,21 @@
 # go-sample
 
+## 起動方法
+
+### Local
+
+```
+# 初期でairインストール
+$ go install github.com/cosmtrek/air@latest
+$ go run main.go
+```
+
+### Docker
+
+```
+$ docker-compose up
+```
+
 ## 参考サイト
 
 - https://iij.github.io/bootcamp/server-app/go
